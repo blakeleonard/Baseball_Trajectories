@@ -9,7 +9,6 @@ A collection of three separate methods for computing the trajectory of a basebal
 3.) Midpoint Method
 
 
-
 Created by Blake Leonard
 
 blake@leonardlabs.net
